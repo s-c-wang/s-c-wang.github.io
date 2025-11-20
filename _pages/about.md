@@ -1,1 +1,4 @@
+我旭承啦
+=====
+
 I’m interested in how the brain constructs temporally extended internal models of the world—representations that track objects, relations, and events over time, and support simulation and prediction. I study these models using a mix of behavioral tasks, EEG, and computational modeling, asking when AI systems’ internal dynamics resemble human ones and where they diverge.
