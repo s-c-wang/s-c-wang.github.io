@@ -11,54 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc. in Neuro-X, École polytechnique fédérale de Lausanne, 2027 (expected)
+* BSc. in Psychology, National Taiwan University, 2024
+* BSc. in Mechanical Engineering, National Taiwan University, 2024
+* Neuroscience and Cognitive Science Credit Program, National Taiwan University, 2024
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall & Winter 2025: Research Assistant
+  * PND Lab, Lausanne University Hospital (CHUV)
+  * Topic: Quantifying Compositional Perception between LLM and EEG
+  * Supervisor: Menétrey Maëlan, Professor David Pascucci
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring & Summer 2025: Research Assistant
+  * UPHummel Lab led by Professor Friedhelm Hummel, Campus Biotech
+  * Topic: Concurrent Striatal Temporal Interference Stimulation and EEG
+  * Supervisor: Stavriani Skarvelaki
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2023, 2024: Undergraduate Student Researcher
+  * BAC Lab, National Taiwan University
+  * Topic: Human Random Sequence Generation
+  * Supervisor: Professor Po-Jang (Brown) Hsieh
